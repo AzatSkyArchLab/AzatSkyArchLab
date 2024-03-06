@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzatSkyArchLab
-- 👀 My interest is to coding to optimize architectural design
-- 🌱 I’m currently learning java script, python. I know rhino and grasshopper very well.
-- 💞️ I’m looking to collaborate on projects thats presents design in the web.
+- 👀 My interest is to create beaty maps
+- 🌱 I’m currently using javascript, python. No pro level - currently improve my skills.
+- 💞️ I’m not looking now to collaborate on projects but write me anyway.
 - 📫 How to reach me: write me at a.ayupov@skyarchmag.com
