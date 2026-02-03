@@ -1,6 +1,6 @@
 # Hi, I'm Azat 👋
 
-**R&D Analyst — Urban Planning Algorithms & Computational Geometry**
+**R&D Analyst — Urban Planning Algorithms & Computational Geometry with solid math foundation (MIPT)**
 
 I design algorithms that help urban planners and architects make better decisions.
 
